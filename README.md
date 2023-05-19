@@ -4,6 +4,6 @@ Hi, I'm Selin. My intent is to gain practical skills in software development, es
 
 Skills 
 -------
-🟪 C 
-🟦 C++ 
-🟠 HTML 🔵 CSS 🟡 JS
+▫️ C 
+▫️ C++ 
+▫️ HTML ▫️ CSS ▫️ JS
