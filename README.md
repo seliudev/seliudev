@@ -6,4 +6,4 @@ Skills
 -------
 ▫️ C 
 ▫️ C++ 
-▫️ HTML ▫️ CSS ▫️ JS
+▫️ HTML ▫️ CSS ▫️ JS ▫️ Swift
