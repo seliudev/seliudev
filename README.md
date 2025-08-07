@@ -1,2 +1,2 @@
 ### 
-Hi, my intent is to gain practical skills in software development. ⸜(｡˃ ᵕ ˂)⸝ ⋆˚꩜｡
+An IS engineer diving into software development with excitement and a passion to learn! ⸜(｡˃ ᵕ ˂)⸝ ⋆˚꩜｡
